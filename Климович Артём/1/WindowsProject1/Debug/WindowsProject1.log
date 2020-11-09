@@ -1,0 +1,4 @@
+﻿  WindowsProject1.cpp
+C:\Users\Артём\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(105,9): warning C4101: 'hBtnStart': unreferenced local variable
+C:\Users\Артём\source\repos\WindowsProject1\WindowsProject1\WindowsProject1.cpp(105,20): warning C4101: 'hBtnStop': unreferenced local variable
+  WindowsProject1.vcxproj -> C:\Users\Артём\source\repos\WindowsProject1\Debug\WindowsProject1.exe
